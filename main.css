@@ -35,9 +35,8 @@ body{
     width: 75%;
     height: 75%;
     position: relative;
-    margin: 5% auto;
+    margin: 9em auto;
     background: #00000055;
-    padding: 1%;
     text-align: center;
     list-style-type: none;
     overflow: hidden;
