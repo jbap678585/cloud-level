@@ -35,16 +35,15 @@ body{
     width: 75%;
     height: 75%;
     position: relative;
-    margin: 5% auto;
+    margin: 5em auto;
     background: #00000055;
-    padding: 1%;
     text-align: center;
     list-style-type: none;
+    overflow: hidden;
     font-size: 1em;
     position: relative;
     align-content: space-around;
 }
-
 .input-field{
     width: 100%;
     padding: 10px 0;
