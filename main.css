@@ -6,6 +6,7 @@ html{
     width: 100%;
     top: 0px;
     left: 0px;
+    background-image: rgb(0, 255, 242);
     background-image: linear-gradient(to bottom right, rgb(0, 255, 242), rgb(9, 255, 0));
     background-size: cover;
     background-attachment: fixed;
